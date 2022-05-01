@@ -29,3 +29,4 @@ This information will help us triage your report more quickly.
 ## Policy
 
 See [GitHub's Safe Harbor Policy](https://docs.github.com/en/github/site-policy/github-bug-bounty-program-legal-safe-harbor#1-safe-harbor-terms)
+dateinBuyAmountinBuyAssetoutSellAmountoutSellAssetfeeAmount (optional)feeAsset (optional)classification (optional)operationId (optional)01/03/2018 06:00:005500USDairdrop03/17/2018 06:00:0010BTC04/05/2018 11:00:0010ETH09/07/2018 11:00:0010BTC11/23/2018 11:00:002000XRP12/25/2019 11:00:003000XRP01/25/2020 11:11:11100ETH05/15/2020 11:11:111500USD9USDpayment07/29/2020 11:11:11100ETH1BTC0.0001BTC
